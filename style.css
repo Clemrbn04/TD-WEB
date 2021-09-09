@@ -1,0 +1,27 @@
+body {
+	font-family: verdana Arial, Helvetica, sans-sheriff;
+	background-color:white;
+}
+h1{
+	color: bold;
+	text-decoration: underline;
+}	
+
+
+.bold{
+	
+	font-weight: bold;
+}
+
+#t1{
+	color: orange;
+}	
+
+
+hr{
+	margin-top: 20px;
+}
+		
+	
+		
+		
