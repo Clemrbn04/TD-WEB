@@ -1,0 +1,13 @@
+header{
+    background-image: url(header-bg.jpg);
+}
+#logo{
+    display: flex;
+    justify-content: right;
+}
+
+#color{
+    color: white;
+}
+
+
