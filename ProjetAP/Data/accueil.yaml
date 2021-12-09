@@ -1,0 +1,9 @@
+nom: 
+  title: nom
+  contenu: robine
+prenom:
+  title: prenom
+  contenu: Clément
+age: 
+  title: age
+  contenu: 18 ans
